@@ -15,7 +15,7 @@ The first line under the heading is the headline. The rest is the body.
 Usage:
   python3 slides.py check slides.md
   python3 slides.py html slides.md --out carousel.html --handle @mycafe --accent "#d9480f"
-  python3 slides.py cost --images 7 --price 0.04 --spent 1.10 --cap 5
+  python3 slides.py cost --images 7 --price 0.04 --spent 1.10 --cap 2
 
 Limits (checked 2026-10-23, see references/instagram-limits.md): up to 20 items per
 carousel, 1080x1350 (4:5) is the safe size, 1080x1440 (3:4) also works.

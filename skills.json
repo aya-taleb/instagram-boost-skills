@@ -17,7 +17,7 @@
     {
       "name": "instagram-carousel",
       "status": "reworked",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": {
         "repo": "Jakeschincariol/instagram-agent-skill",
         "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
@@ -116,7 +116,7 @@
       "name": "generate-images",
       "status": "synced",
       "home": "multimedia-skills",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "name": "transcribe",
