@@ -46,6 +46,7 @@ hashtags and nearby collabs.
 
 ## Good to know
 
+- Not affiliated with, sponsored or endorsed by Instagram or Meta. Instagram is a trademark of Meta Platforms, Inc.
 - You post everything yourself. No skill logs in, posts, schedules, comments, follows or sends
   a DM for you. That keeps your account inside Instagram's terms.
 - Nothing is made up. Missing numbers, quotes and links show as `{{your number}}` for you to
