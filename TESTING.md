@@ -214,3 +214,30 @@ Read these numbers with care:
   ours added copy lines the file does not support. The reply skill left the iPad question as
   a placeholder though the file says users are on Mac and iPad. The repurpose transcript run
   skipped the founding-seats carousel the case expected.
+
+## Polish round (Oct 24)
+
+Method: each fix was rerun in fresh, isolated `claude -p` runs (own HOME, own project folder,
+only the skill plus founder-context and humanize where the repo has them). The new version ran
+against the current version (the last commit) on the same eval case. A separate `claude -p`
+judge saw both outputs as A and B and scored them out of 50, once in each label order. A fix
+ships only if it wins or ties in both orders. Scores are new / current. Runs, judge packets
+and keys: `/home/claude/build/_work/polish/`.
+
+| skill | case | round | order A-new | order A-current | result |
+| --- | --- | --- | --- | --- | --- |
+| instagram-carousel | local-ai-images-curbside | r1 | won 40/39 | lost 40/44 | not yet: slide 4 shortened "before your first December order" to "before December" |
+| instagram-carousel | local-ai-images-curbside | r2 | won 44/40 | won 43/40 | shipped |
+| instagram-reply | app-replies-plotline | r1 | won 44/41 | won 42/42 | shipped |
+| instagram-repurpose | local-talk-transcript-curbside | r1 | won 41/40 | won 43/42 | shipped |
+
+What changed:
+- instagram-carousel 0.1.2: every slide line traces to the business file or the user's words.
+  Shorten without dropping a condition; no counts, urgency, promises or outcomes the file
+  does not give; cut a slide rather than pad it.
+- instagram-reply 0.1.1: read every field of the business file before writing `{{answer}}`.
+  Answer from a line that states or plainly implies the fact, no stronger than the file, and
+  name that line under OPEN.
+- instagram-repurpose 0.1.1: map every strong source moment to a format before choosing; a
+  process (how an offer works) is carousel material; dropped moments go in `skipped`; a goal
+  in the business file is not a fact to post.

@@ -57,6 +57,14 @@ LAST     ASK      one action: save, send to a friend, comment a keyword, or visi
 
 Copy rules, and why:
 
+- **Every line traces to a source.** Each headline and body line comes from the business
+  file or the user's words. Shortening is fine if every condition stays ("free for your
+  first month" is not "free"); adding is not. No counts the facts don't
+  give ("3 steps" when you have 4), no urgency ("only now", "going fast"), no claims about
+  what happens after a deadline, no outcomes or promises. People act on slides, and a line
+  the founder can't back up costs trust. If a slide needs a fact you don't have, use a
+  `{{placeholder}}` or cut the slide: 5 true slides beat 8 padded ones. Before showing,
+  point each line to its field or the user's words, and rewrite any that point to nothing.
 - **The cover does most of the work.** If nobody swipes, the rest does not exist.
 - **Number the slides** (3/8). People finish more often when they can see the end.
 - **No paragraphs.** Past 25 words, split the slide. People read these at a third of real

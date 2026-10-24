@@ -52,7 +52,13 @@ praise.
 - **Use their name or handle** when it fits, and answer what they asked, in their words.
 - **Real facts only.** Prices, hours, dates, policies, how things are made, why they cost
   what they cost: all from the business file. If the file does not say, write `{{answer}}`
-  and list it for the user. A wrong fact in public is worse than a slow reply. Flagging a
+  and list it for the user.
+- **Check the whole file before a placeholder.** Answers often sit in a field you would not
+  look in first: who it serves may name the devices or the neighborhood, proof may name a
+  feature. If a line answers the question, or plainly implies it (an app whose users are
+  "mostly on Mac and iPad" runs on iPad), answer from it, worded no stronger than the file.
+  Then name that line under OPEN so the user can confirm. A placeholder for a fact the file
+  holds leaves a customer waiting for no reason. A wrong fact in public is worse than a slow reply. Flagging a
   guess in a note is not enough, because the user may paste the reply as is. Keep the guess
   out of the reply itself.
 - **Off-limits topics** get a polite no or a move to DM, never an answer.

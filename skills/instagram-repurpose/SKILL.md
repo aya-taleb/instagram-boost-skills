@@ -50,8 +50,15 @@ Read the whole source and list its strongest parts. Look for:
 Drop the rest. Most of a long piece is connective tissue that does not survive on its own.
 
 Score each candidate quickly: does it stand alone for someone who never saw the source? Is it
-on one of the business's topics? Is it new for this account (check `log.md`)? Keep the best
-2 to 5.
+on one of the business's topics? Is it new for this account (check `log.md`)?
+
+Then map every strong moment to its best format before you choose, one line each:
+`<moment, with timestamp or paragraph> -> <format> -> <why>`. Use the table in section 3.
+A process counts as steps even when the speaker says it in one sentence: how an offer
+works, how to sign up, what happens when. Its steps can come from the source plus the
+business file, so an offer with a price, a deadline and a pickup point is carousel material.
+Keep the best 2 to 5 from the map, mixing formats where the source allows. Every moment you
+drop goes in `skipped` with its reason, so the user sees what was left on the table.
 
 ## 3. Pick a format per idea
 
@@ -89,7 +96,8 @@ Rules for the briefs:
 - **Credit other people** quoted in the source, by name, and only if the user can use it.
 - **Each piece stands alone.** No "as I said in my newsletter" unless the ask is to read it.
 - **No new facts.** If the piece needs a number the source does not have, it gets a
-  placeholder.
+  placeholder. A goal in the business file is not a fact to post: "fill 50 seats" is a
+  goal, not "50 seats left".
 - **A keyword ask says what it sends.** "Comment STUCK and I'll DM you the card method",
   then hand the replies to `/instagram-dm`. A keyword with nothing behind it wastes the
   comment.

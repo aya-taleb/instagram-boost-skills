@@ -17,7 +17,7 @@
     {
       "name": "instagram-carousel",
       "status": "reworked",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "source": {
         "repo": "Jakeschincariol/instagram-agent-skill",
         "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
@@ -69,7 +69,7 @@
     {
       "name": "instagram-reply",
       "status": "rewritten",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "replaces": {
         "repo": "Jakeschincariol/instagram-agent-skill",
         "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
@@ -79,7 +79,7 @@
     {
       "name": "instagram-repurpose",
       "status": "rewritten",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "replaces": {
         "repo": "Jakeschincariol/instagram-agent-skill",
         "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
