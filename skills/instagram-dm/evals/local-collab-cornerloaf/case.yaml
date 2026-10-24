@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-collab-cornerloaf
+expected_outcome: |
+  A short collab pitch in four parts (what you noticed: their holiday blend post; the idea: e.g.
+  pie and coffee pairing or a Collab post; what they get; what you need), in Corner Loaf's tone, with real
+  details from the file (holiday pie preorders open Nov 1, Ballard) and no invented numbers, plus two follow-ups
+  and a character count.
+context:
+  scaffold_script: place-files.sh

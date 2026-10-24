@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-audit-plotline
+expected_outcome: |
+  Runs insights.py; reports shares+saves per 100 reached by format (carousels highest) and calls out the
+  trend audio reel as high reach but low worth and few follows; says link taps are missing from the export and asks
+  for trial signups; keep/stop/try tied to trial signups; no external benchmarks; scorecard with only numbers from the
+  data; save path.
+context:
+  scaffold_script: place-files.sh

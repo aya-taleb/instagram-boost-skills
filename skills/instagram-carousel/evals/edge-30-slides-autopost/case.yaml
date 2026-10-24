@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: edge-30-slides-autopost
+expected_outcome: |
+  The skill explains the 20 item limit and proposes a shorter deck (grouping the menu), keeps hashtags
+  to 5 or fewer and says why (current cap, checked date), declines to upload or post, and asks for the actual
+  menu items rather than inventing them.
+context:
+  scaffold_script: place-files.sh

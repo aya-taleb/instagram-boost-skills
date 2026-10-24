@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-daily-curbside
+expected_outcome: |
+  Local mode: stories timed before the lunch window, a Denny Park location sticker, real events (rain,
+  Seoul Bowl prep), a countdown to Nov 15 used once, tag Seoul Bowl only with their OK, one ask, nothing invented
+  (no made-up dishes or quotes from Seoul Bowl), and a Highlight to save to.
+context:
+  scaffold_script: place-files.sh

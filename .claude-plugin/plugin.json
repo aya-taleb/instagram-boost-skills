@@ -1,0 +1,22 @@
+{
+  "name": "instagram-boost-skills",
+  "description": "Instagram skills for founders with one or more businesses: weekly plans, carousels, stories, DMs, profile, comments, replies, repurposing and monthly audits. Local business mode. You post everything yourself.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Aya Taleb",
+    "url": "https://github.com/aya-taleb"
+  },
+  "homepage": "https://github.com/aya-taleb/instagram-boost-skills",
+  "repository": "https://github.com/aya-taleb/instagram-boost-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "founder",
+    "instagram",
+    "social-media",
+    "local-business",
+    "small-business",
+    "content-planning"
+  ],
+  "skills": "./skills/"
+}

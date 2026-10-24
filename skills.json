@@ -1,0 +1,146 @@
+{
+  "repo": "instagram-boost-skills",
+  "owner": "aya-taleb",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "instagram-plan",
+      "status": "reworked",
+      "version": "0.1.0",
+      "source": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-plan",
+        "license": "MIT"
+      }
+    },
+    {
+      "name": "instagram-carousel",
+      "status": "reworked",
+      "version": "0.1.0",
+      "source": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-carousel",
+        "license": "MIT"
+      }
+    },
+    {
+      "name": "instagram-dm",
+      "status": "reworked",
+      "version": "0.1.0",
+      "source": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-dm",
+        "license": "MIT"
+      }
+    },
+    {
+      "name": "instagram-story",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-story"
+      }
+    },
+    {
+      "name": "instagram-profile",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-profile"
+      }
+    },
+    {
+      "name": "instagram-comment",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-comment"
+      }
+    },
+    {
+      "name": "instagram-reply",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-reply"
+      }
+    },
+    {
+      "name": "instagram-repurpose",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-repurpose"
+      }
+    },
+    {
+      "name": "instagram-audit",
+      "status": "rewritten",
+      "version": "0.1.0",
+      "replaces": {
+        "repo": "Jakeschincariol/instagram-agent-skill",
+        "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+        "path": "skills/ig-audit"
+      }
+    },
+    {
+      "name": "ig-reel",
+      "status": "linked",
+      "repo": "Jakeschincariol/instagram-agent-skill",
+      "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+      "path": "skills/ig-reel",
+      "license": "MIT"
+    },
+    {
+      "name": "ig-caption",
+      "status": "linked",
+      "repo": "Jakeschincariol/instagram-agent-skill",
+      "commit": "d03c56bb598be770c60b201f94237e5d1a4268a6",
+      "path": "skills/ig-caption",
+      "license": "MIT"
+    },
+    {
+      "name": "generate-images",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "transcribe",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "talking-head-cards",
+      "status": "synced",
+      "home": "multimedia-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "humanize",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "founder-context",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0"
+    }
+  ]
+}

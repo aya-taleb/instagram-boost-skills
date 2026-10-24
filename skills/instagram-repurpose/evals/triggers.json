@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "turn my blog post into instagram posts",
+    "make reels from my podcast episode, here's the transcript",
+    "I wrote a newsletter, what can I post on IG from it",
+    "repurpose my linkedin post for instagram",
+    "recycle my best old instagram posts",
+    "here's my talk transcript, make instagram content from it"
+  ],
+  "should_not_trigger": [
+    "turn my blog post into a linkedin post",
+    "transcribe this video file",
+    "write a new carousel about outlining",
+    "summarize this newsletter for me",
+    "make a youtube short from this clip",
+    "plan my instagram week"
+  ]
+}

@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-week-plotline
+expected_outcome: |
+  A one-week plan for Plotline only, with correct dates (Mon Nov 2 to Sun Nov 8 2026),
+  sized to about 3 hours (2 to 3 posts, not 5), built on the two real events, with formats,
+  angles, times in the audience's time zone, a story slot, an engagement list (with placeholders
+  if no accounts were given), hand-offs to the next skills, and the file path where the plan is saved.
+context:
+  scaffold_script: place-files.sh

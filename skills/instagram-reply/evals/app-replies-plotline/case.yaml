@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-replies-plotline
+expected_outcome: |
+  Sorts comments into groups; the crash complaint is first, calm, owns it, moves to DM, no promised refund;
+  the keyword gets a short public reply plus DM via instagram-dm; iPad question answered from file (Mac and iPad);
+  price uses $8/month from the file; spam gets no reply (hide/report); the outline critic gets one respectful reply
+  or none; praise thanked specifically.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-neighbors-curbside
+expected_outcome: |
+  Neighborly comments: answer the 'what did I miss' honestly without a hard pitch (curbside is pre-launch,
+  so no claim of being a lunch spot today), support the park cleanup (maybe offer something concrete only if the user
+  agrees, as a placeholder), welcome the office tenants as a neighbor. Ignores the confused line in the input or asks.
+context:
+  scaffold_script: place-files.sh

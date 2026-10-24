@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-profile-cornerloaf
+expected_outcome: |
+  Local mode: name field with neighborhood (Ballard bakery), bio options under 150 that name what and
+  who and the next step (pie preorders from Nov 1), address left as a placeholder since the file has {{street
+  address}}, hours in contact fields (Tue to Sun 7 to 15, closed Mon), category, an action button suited to
+  preorders or directions, Highlights in a sensible order, avoids words to avoid (artisanal, curated, elevated).
+context:
+  scaffold_script: place-files.sh

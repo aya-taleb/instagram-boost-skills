@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-bio-plotline
+expected_outcome: |
+  Runs the 3 second test on the current bio, quoting it; explains the URL in bio text is not clickable;
+  gives 2 to 3 bio options each counted under 150 (via bio.py), a name field with a searchable phrase under 30,
+  a link plan, Highlights and pins, no invented proof (no user counts), and a note that the bio turns visits into
+  follows but does not create reach.
+context:
+  scaffold_script: place-files.sh

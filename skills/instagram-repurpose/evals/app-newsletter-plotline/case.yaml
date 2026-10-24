@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-newsletter-plotline
+expected_outcome: |
+  2 to 5 pieces with different formats (e.g. Reel for the floor index card moment, carousel for the three
+  lessons, stories for the 'where is your draft stuck' question), each a brief naming the source part, an exact quote,
+  and the next skill; Rosa Kim credited by name if her quote is used; nothing new invented (40,000 words and four years
+  are from the source); skipped ideas listed; save path.
+context:
+  scaffold_script: place-files.sh

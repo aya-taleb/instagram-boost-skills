@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-week-curbside
+expected_outcome: |
+  A local business plan: posts timed before the 11:30 to 13:00 weekday window, the Denny
+  Park geotag, at most 5 hashtags that are mostly local, the founding seat deadline (Nov 15) pushed
+  in the right days with Monday's slow time used on purpose, a collab with a nearby business or
+  truck partner, daily stories, no repeat of the themes in the log, correct dates, nothing invented.
+context:
+  scaffold_script: place-files.sh

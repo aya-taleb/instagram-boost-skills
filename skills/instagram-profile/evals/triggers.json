@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "fix my instagram bio",
+    "what should my IG profile say for the bakery",
+    "people visit my profile but don't follow, why",
+    "which posts should I pin on instagram",
+    "what highlights should our cafe have",
+    "set up the instagram profile for my new lunch business"
+  ],
+  "should_not_trigger": [
+    "rewrite my linkedin headline",
+    "audit my instagram numbers for last month",
+    "write my about page for the website",
+    "make a story for today",
+    "write a founder bio for the pitch deck",
+    "what should I post this week on instagram"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what should I comment on this post from @maya.drafts",
+    "write comments for my engagement round today",
+    "help me get noticed by this big creator, here's her latest post",
+    "comment ideas for these 5 accounts on instagram",
+    "I want to comment on the bakery next door's post, what do I say",
+    "draft instagram comments for these posts I pasted"
+  ],
+  "should_not_trigger": [
+    "reply to the comments on my own reel",
+    "write a linkedin comment on this post",
+    "DM this person who commented",
+    "plan my instagram engagement list for the week",
+    "how do I turn off comments on instagram",
+    "summarize the comments on my youtube video"
+  ]
+}

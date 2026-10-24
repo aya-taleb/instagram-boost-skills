@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what should I put on my instagram story today",
+    "plan stories for our launch week",
+    "give me a poll for my IG story about lunch",
+    "story ideas for the bakery, it's a slow tuesday",
+    "countdown story for founding seats ending sunday",
+    "we posted a carousel, how do I push it on stories"
+  ],
+  "should_not_trigger": [
+    "write a reel script about our starter",
+    "plan my whole instagram week",
+    "fix my instagram highlights names in my profile",
+    "write a linkedin post about our launch",
+    "tell the story of how I started the company for my about page",
+    "reply to the people who answered my story poll"
+  ]
+}

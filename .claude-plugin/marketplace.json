@@ -1,0 +1,14 @@
+{
+  "name": "instagram-boost-skills",
+  "owner": {
+    "name": "Aya Taleb",
+    "url": "https://github.com/aya-taleb"
+  },
+  "plugins": [
+    {
+      "name": "instagram-boost-skills",
+      "source": "./",
+      "description": "Instagram skills for founders with one or more businesses: weekly plans, carousels, stories, DMs, profile, comments, replies, repurposing and monthly audits. Local business mode. You post everything yourself."
+    }
+  ]
+}

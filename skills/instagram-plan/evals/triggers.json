@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "plan my instagram week",
+    "what should I post on IG next week for the bakery",
+    "can you make me an instagram content calendar for november",
+    "I have nothing to post on instagram this week, help",
+    "weekly instagram schedule for my lunch subscription, we're in SLU",
+    "map out reels and carousels for plotline next week"
+  ],
+  "should_not_trigger": [
+    "write me a reel script about outlining a novel",
+    "plan my linkedin posts for the week",
+    "how many hashtags can I use on instagram now",
+    "turn this blog post into a carousel",
+    "do my weekly review across all my businesses",
+    "write a caption for this photo of our sourdough"
+  ]
+}

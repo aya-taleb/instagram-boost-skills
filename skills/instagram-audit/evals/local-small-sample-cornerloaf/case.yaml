@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-small-sample-cornerloaf
+expected_outcome: |
+  Works from pasted numbers (no reach column issues), flags a small sample (4 posts) so findings are hunches,
+  notes the starter reel and pie carousel did best per reach, asks whether posts led to visits or preorders, ties
+  try items to weekday afternoon sales and preorders (e.g. post before the 12:30 slow window), invents no numbers.
+context:
+  scaffold_script: place-files.sh

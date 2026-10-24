@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-launch-story-plotline
+expected_outcome: |
+  3 to 7 frames for Plotline that push the carousel and the export feature, open with motion or a
+  face rather than a text card, include one reply sticker with exact text, have exactly one ask (the free trial)
+  with a {{link}} placeholder unless a link was given, short on-screen text within the safe zone, a Highlight
+  suggestion, and the save path.
+context:
+  scaffold_script: place-files.sh

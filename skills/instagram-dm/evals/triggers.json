@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "what do I DM someone who commented LUNCH on my reel",
+    "write instagram messages for the leads in sales/leads.csv",
+    "how do I follow up with this person on IG, they never answered",
+    "pitch a collab to the bakery next door over instagram DM",
+    "draft a dm to @priyawrites, she asked for the template",
+    "need a reply message for everyone who commented SEAT"
+  ],
+  "should_not_trigger": [
+    "write a linkedin connection note for this lead",
+    "write a cold email sequence for these leads",
+    "reply to this comment on my post",
+    "build me a lead list of seattle offices",
+    "plan my instagram week",
+    "write a caption that asks people to comment LUNCH"
+  ]
+}

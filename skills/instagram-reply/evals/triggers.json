@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "help me reply to the comments on my reel",
+    "someone left a nasty comment on our post, what do I say",
+    "how do I answer people asking the price in comments",
+    "reply to everyone who commented on my carousel",
+    "here are 20 comments from my post, sort them and draft replies",
+    "a customer complained in the comments about a late order"
+  ],
+  "should_not_trigger": [
+    "write comments for me to leave on other people's posts",
+    "reply to this linkedin comment",
+    "answer this customer email",
+    "DM the people who commented OUTLINE",
+    "write a caption for my reel",
+    "reply to this google review"
+  ]
+}

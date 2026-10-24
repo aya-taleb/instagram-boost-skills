@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-leads-plotline
+expected_outcome: |
+  Uses sales/leads.csv in the shared layout (via leads.py, filtered to business_slug plotline), writes a DM only for Priya (has trigger and handle),
+  skips Lena (do not contact), Jo (no handle), Sam (other business), puts Marcus under comment first since
+  he has no trigger, delivers what Priya asked for in message one, adds two follow-ups with dates (Oct 27, Nov 2),
+  character counts, says the user sends by hand, and suggests setting status and last_contact after sending.
+context:
+  scaffold_script: place-files.sh
