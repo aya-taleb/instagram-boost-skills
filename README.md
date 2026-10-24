@@ -51,7 +51,7 @@ hashtags and nearby collabs.
 - Nothing is made up. Missing numbers, quotes and links show as `{{your number}}` for you to
   fill. No fake reviews, no fake customers.
 - AI images cost money, so the carousel skill shows the estimated cost and waits for your yes.
-  The default cap is $5 a session, and you can change it.
+  The default cap is $2 a session, and you can change it.
 - Each business gets its own folder: `~/.founder/social/instagram/<business>/`. Plans, logs and
   DM trackers never mix.
 - Platform limits (5 hashtags, 20 slides, 150 character bio) are checked and dated in each

@@ -125,7 +125,7 @@ def render_html(slides, handle="", accent="#222222", ratio="4:5"):
     return "\n".join(out)
 
 
-def cost(images, price, spent=0.0, cap=5.0):
+def cost(images, price, spent=0.0, cap=2.0):
     """Return a dict with the estimate and whether it fits under the cap."""
     estimate = round(images * price, 4)
     after = round(spent + estimate, 4)
@@ -156,7 +156,7 @@ def main(argv=None):
     cp.add_argument("--images", type=int, required=True)
     cp.add_argument("--price", type=float, required=True, help="dollars per image, from the live model page")
     cp.add_argument("--spent", type=float, default=0.0)
-    cp.add_argument("--cap", type=float, default=5.0)
+    cp.add_argument("--cap", type=float, default=2.0)
     args = parser.parse_args(argv)
 
     if args.cmd == "cost":

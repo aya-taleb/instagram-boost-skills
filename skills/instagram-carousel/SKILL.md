@@ -120,9 +120,9 @@ Paid image runs cost the user money, so follow these steps every time:
    ```bash
    python3 scripts/slides.py cost --images <n> --price <per image> --spent <so far> --cap 5
    ```
-   The default cap is $5 a session. The user can change it.
+   The default cap is $2 a session. The user can change it.
 4. Show the estimate in one line: "7 images x $0.04 = about $0.28. Spent so far $0.00,
-   cap $5. Run it?" Then stop and wait for a clear yes. Silence, "maybe" or "looks good"
+   cap $2. Run it?" Then stop and wait for a clear yes. Silence, "maybe" or "looks good"
    about the copy is not a yes to spend.
 5. If the run would pass the cap, do not run it. Offer fewer images or ask the user to
    raise the cap.
